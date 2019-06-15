@@ -1,0 +1,22 @@
+{
+  "name": "doctojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weizhang-gt/DocToJson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weizhang-gt/DocToJson/issues"
+  },
+  "homepage": "https://github.com/weizhang-gt/DocToJson#readme"
+}
