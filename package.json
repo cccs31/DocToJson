@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/weizhang-gt/DocToJson#readme",
   "dependencies": {
-    "extract-zip": "^1.6.7",
+    "adm-zip": "^0.4.13",
     "xml-js": "^1.6.11"
   }
 }
